@@ -2,7 +2,7 @@
     /* For mobile phones: */
 
 body {
-    background-image: url(../contents/cellworld.png);
+    background-image: url(./contents/cellworld.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
